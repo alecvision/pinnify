@@ -83,7 +83,7 @@ RELDATE=""
 OSJSONDATA=""
 BASEURL=""
 
-EDITOR="/usr/bin/nano"
+EDITOR=$(which nano)
 
 # program arguments (booleans in this case)
 declare -i ARG_ASK=0 ARG_HELP=0
