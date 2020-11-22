@@ -2,13 +2,11 @@
 A simple, templated script to create PINN-compatible compressed tarballs and metadata from an OS disk image.
 
 # Under new developement since v0.9.1 (SEE WARNING BELOW)
-**WARNING:** I am (at best) a novice programmer (albeit one with an affinity the manual).
-**USE AT YOUR OWN RISK** - This is my first ever code publication.
-Modifications to this code have not been peer reviewed as of yet-
+**WARNING:** I am (at best) a novice programmer (albeit one with an affinity for the manual).
+ **USE AT YOUR OWN RISK** - This is my first ever code publication. Modifications to this code have not been peer reviewed as of yet -
 This warning will be updated should adequate peer-review take place.
 
-**Initial work, up to (and including) v0.9 Credit: sakaki**
-A special thank you for providing my on-ramp to self-taught coding and computer science.
+**Initial work, up to (and including) v0.9 Credit: sakaki** - A special thank you for providing my on-ramp to self-taught coding and computer science.
 
 ## Description
 
