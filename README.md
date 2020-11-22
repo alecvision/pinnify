@@ -1,6 +1,8 @@
 # pinnify
 A simple, templated script to create PINN-compatible compressed tarballs and metadata from an OS disk image.
 
+# Under new developement since v0.9.1
+##  All work up to (including) v0.9 Credit: sakaki 
 
 ## Description
 
